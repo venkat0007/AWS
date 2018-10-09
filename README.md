@@ -24,3 +24,6 @@ it is a combination of both private and public cloud.the decison to run on priva
 1.security issues
 2. Technical issues
 3.not easy to switch service providers
+
+
+6z(s2fO8fPB67MZIxh!nEDD=iloSAhku
