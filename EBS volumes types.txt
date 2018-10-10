@@ -1,0 +1,21 @@
+## EBS volumes Types
+
+#### 1. General purpose SSD(GP2): 
+        It is used for small based web applications and it is balanced both price and performance.
+
+#### 2.Provisioned IOPS SSD(IOI)
+        It is used for I/O intensive application such as large relational or NOSQL databases
+        use if you need more than 10000IOPS
+
+####Throughput Optimized HDD(ST1)
+        It is used for big data,datawarehouse and can't boot volume.
+
+#### cold HDD(SC1)
+      lowest cost storage for infrequently accessed workloads.file servers.
+      can't boot volume.
+
+#### Magnetic standard:
+     lowest cost per for GB of all EBS volumes types that is bootable.moagantic voumes are ideal for workloads
+     where is accessed infrequenly.
+
+above two are SSD and remaining are HDD or magnatic tisks
